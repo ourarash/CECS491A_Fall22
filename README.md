@@ -16,3 +16,5 @@ TODO:
 | --- | --- | --- | --- | --- | --- |
 | Food on Campus | [Arash Saifhashemi](https://www.linkedin.com/in/ourarash/)| Find free food on campus! | [YouTube](https://www.youtube.com/arisaif)|[Github](https://github.com/ourarash) | [Link to slides (e.g. in google drive)](http://myslides)|
 | Food on Campus | [Arash Saifhashemi](https://www.linkedin.com/in/ourarash/)| Find free food on campus! | [YouTube](https://www.youtube.com/arisaif)|[Github](https://github.com/ourarash) | [Link to slides (e.g. in google drive)](http://myslides)|
+
+|Static Dev| [Jafet Oidor Ortega] | find local shows!| [ github] (https://github.com/OnestaticDev/CECS491-StaticDev)
