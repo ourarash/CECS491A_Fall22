@@ -16,3 +16,4 @@ TODO:
 | --- | --- | --- | --- | --- | --- |
 | Food on Campus | [Arash Saifhashemi](https://www.linkedin.com/in/ourarash/)| Find free food on campus! | [YouTube](https://www.youtube.com/arisaif)|[Github](https://github.com/ourarash) | [Link to slides (e.g. in google drive)](http://myslides)|
 | Food on Campus | [Arash Saifhashemi](https://www.linkedin.com/in/ourarash/)| Find free food on campus! | [YouTube](https://www.youtube.com/arisaif)|[Github](https://github.com/ourarash) | [Link to slides (e.g. in google drive)](http://myslides)|
+| Food Finders (Future GoogleDevs) | Hadi Al Lawati, Joey Rice, Malhar Pandya, Michael Ching | Food Finder - finding food | https://github.com/Ricearoni26/CECS-491-Project |  | 
