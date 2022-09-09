@@ -16,4 +16,4 @@ TODO:
 | --- | --- | --- | --- | --- | --- |
 | Food on Campus | [Arash Saifhashemi](https://www.linkedin.com/in/ourarash/)| Find free food on campus! | [YouTube](https://www.youtube.com/arisaif)|[Github](https://github.com/ourarash) | [Link to slides (e.g. in google drive)](http://myslides)|
 | Food on Campus | [Arash Saifhashemi](https://www.linkedin.com/in/ourarash/)| Find free food on campus! | [YouTube](https://www.youtube.com/arisaif)|[Github](https://github.com/ourarash) | [Link to slides (e.g. in google drive)](http://myslides)|
-| SnowBallers | [Dylan Ayala, Anthony Sanchez, Brian Park, Guadalupe Santos]| VR Snowball fight game! | [YouTube](https://www.youtube.com/arisaif)|[Github](https://github.com/ourarash) | [Link to slides (e.g. in google drive)](http://myslides)|
+| SnowBallers | [Dylan Ayala, Anthony Sanchez, Brian Park, Guadalupe Santos]| VR Snowball fight game! | [YouTube](https://www.youtube.com/arisaif)|[Github](https://github.com/BlackSwiss/491ASnowBallers) | [Link to slides (e.g. in google drive)](http://myslides)|
