@@ -15,5 +15,5 @@ TODO:
 |Project Name| Teammates | Description |Video Link|Github Link|Slides Link|
 | --- | --- | --- | --- | --- | --- |
 | Food on Campus | [Arash Saifhashemi](https://www.linkedin.com/in/ourarash/)| Find free food on campus! | [YouTube](https://www.youtube.com/arisaif)|[Github](https://github.com/ourarash) | [Link to slides (e.g. in google drive)](http://myslides)|
-| Food on Campus | [Arash Saifhashemi](https://www.linkedin.com/in/ourarash/)| Find free food on campus! | [YouTube](https://www.youtube.com/arisaif)|[Github](https://github.com/ourarash) | [Link to slides (e.g. in google drive)](http://myslides)|
 | Food Finders (Future GoogleDevs) | Hadi Al Lawati, Joey Rice, Malhar Pandya, Michael Ching | Food Finder - finding food | https://github.com/Ricearoni26/CECS-491-Project |  | 
+| WorkOutLoud | [Van Nguyen](https://github.com/personallyvnguyen/), [Charlie Truong](https://github.com/daseann), [Nickholas Boboaca](https://github.com/ImVispo/), [Bao Nguyen](https://github.com/baonguyen0703) | Voice-guided Custom Workouts! | TBA |[Github](https://github.com/WorkOutLoudApp/documents) | TBA |
